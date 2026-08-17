@@ -75,10 +75,10 @@ development. Interface is in Portuguese, built for the Brazilian market.
 
 ## Why this account looks quieter than my work
 
-Most of what I have shipped in the last three years is not here. Client platforms
-are private, work done as an employee belongs to the employer, and contract work
-is covered by confidentiality agreements. The public repositories on this account
-are mostly coursework from when I was learning.
+Most of what I have shipped is not here. Client platforms are private, work done
+as an employee belongs to the employer, and contract work is covered by
+confidentiality agreements. The public repositories on this account are mostly
+coursework from when I was learning.
 
 If you want to see production code, ask me and I will walk you through what I can
 show, live.
