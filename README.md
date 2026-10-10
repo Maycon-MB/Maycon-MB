@@ -11,7 +11,10 @@ Available 10:00 to 19:00 BRT, which covers US business hours.
 
 ---
 
-## In production
+## In production (private work)
+
+Numbers from systems I built and ran as an employee. The code belongs to the
+employer and is not public.
 
 | What | Number |
 |---|---|
@@ -25,7 +28,7 @@ Available 10:00 to 19:00 BRT, which covers US business hours.
 
 ## Selected work
 
-### VisaoPost · scheduling and analytics platform
+### [VisaoPost](https://github.com/Maycon-MB/visaopost) · scheduling and analytics platform
 
 ![VisaoPost dashboard: reach, client base and WhatsApp automation metrics](readme-assets/visaopost.png)
 
@@ -41,7 +44,7 @@ I own the platform; the client holds a usage licence.
 
 ---
 
-### Constituent registry · desktop and web from one codebase
+### Constituent registry · web app (private)
 
 ![Registry dashboard: coverage against the official electoral dataset, registration gaps and duplicate detection](readme-assets/registry.png)
 
@@ -73,6 +76,14 @@ development. Interface is in Portuguese, built for the Brazilian market.
 
 ---
 
+## Public code
+
+- [visaopost](https://github.com/Maycon-MB/visaopost): FastAPI, PostgreSQL and React platform described above.
+- [orderflow-api](https://github.com/Maycon-MB/orderflow-api): Node.js, Express and MongoDB order API from a technical challenge.
+- [CS50P](https://github.com/Maycon-MB/CS50P): Python problem sets from HarvardX CS50P.
+
+---
+
 ## Why this account looks quieter than my work
 
 Most of what I have shipped is not here. Client platforms are private, work done
@@ -99,7 +110,7 @@ show, live.
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624&color=black)
 
 **Also:** SQLAlchemy · Alembic · Redis · pandas · Playwright · pytest · Vitest ·
-Nginx · React Native · PHP
+Nginx · React Native (Expo)
 
 ---
 
