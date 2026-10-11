@@ -28,7 +28,7 @@ employer and is not public.
 
 ## Selected work
 
-### [VisaoPost](https://github.com/Maycon-MB/visaopost) · scheduling and analytics platform
+### VisaoPost · scheduling and analytics platform
 
 ![VisaoPost dashboard: reach, client base and WhatsApp automation metrics](readme-assets/visaopost.png)
 
@@ -78,7 +78,6 @@ development. Interface is in Portuguese, built for the Brazilian market.
 
 ## Public code
 
-- [visaopost](https://github.com/Maycon-MB/visaopost): FastAPI, PostgreSQL and React platform described above.
 - [orderflow-api](https://github.com/Maycon-MB/orderflow-api): Node.js, Express and MongoDB order API from a technical challenge.
 - [CS50P](https://github.com/Maycon-MB/CS50P): Python problem sets from HarvardX CS50P.
 
