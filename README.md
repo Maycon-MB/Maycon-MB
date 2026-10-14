@@ -79,7 +79,7 @@ development. Interface is in Portuguese, built for the Brazilian market.
 ## Public code
 
 - [orderflow-api](https://github.com/Maycon-MB/orderflow-api): Node.js, Express and MongoDB order API from a technical challenge.
-- [CS50P](https://github.com/Maycon-MB/CS50P): Python problem sets from HarvardX CS50P.
+- [CS50-Python](https://github.com/Maycon-MB/CS50-Python): my final project for HarvardX CS50P, a movie recommender using TF-IDF and cosine similarity.
 
 ---
 
