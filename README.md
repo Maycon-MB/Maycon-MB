@@ -8,6 +8,7 @@ Available 10:00 to 19:00 BRT, which covers US business hours.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/maycon-constancio/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:mayconbruno.constancio@gmail.com)
+[![Website](https://img.shields.io/badge/-constanciodev.com.br-000?style=for-the-badge&logo=googlechrome&logoColor=E5484D)](https://constanciodev.com.br)
 
 ---
 
@@ -23,6 +24,15 @@ employer and is not public.
 | Records kept in sync across platforms, with hash-based change detection | **11,620** |
 | WhatsApp interactions on an automated customer channel | **20,775** |
 | Campuses served by the systems above | **14** |
+
+---
+
+## Products
+
+| Product | What it does | Where |
+|---|---|---|
+| **Vagas Brasil** | Apify actor with the open jobs of companies hiring in Brazil, from the public Greenhouse, Lever and Ashby APIs, with salary, work model, state and seniority extracted. Pay per result. | [Apify Store](https://apify.com/constanciodev/vagas-brasil) |
+| **Batedor de Vagas** | Job search for Brazil that runs every morning on its own, filters by the person's profile and emails what passes. | [batedor.constanciodev.com.br](https://batedor.constanciodev.com.br) |
 
 ---
 
