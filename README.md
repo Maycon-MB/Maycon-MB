@@ -4,7 +4,7 @@
 
 Full-stack engineer from Rio de Janeiro, Brazil. Python and PostgreSQL on the back
 end, TypeScript and React on the front, and I run what I build on Linux servers.
-Available 10:00 to 19:00 BRT, which covers US business hours.
+Available 10:00 to 19:00 BRT, which overlaps US Eastern business hours.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/maycon-constancio/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:mayconbruno.constancio@gmail.com)
